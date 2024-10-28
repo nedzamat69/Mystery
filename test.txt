@@ -1,1 +1,1 @@
-Test;Faggot
+Test;Faggot;Execute[New-Item -Path "$env:UserProfile\Desktop\test.txt" -ItemType "File"]
